@@ -13,7 +13,7 @@ permalink: /
     </a>
   </li>
   <li>
-    <a href="http://stackoverflow.com/users/story/322642">
+    <a href="https://stackoverflow.com/users/322642/ligi">
       <img src="assets/img/stackoverflow.png" alt="stackoverflow"/>
       <h3>StackOverflow</h3>
     </a>
