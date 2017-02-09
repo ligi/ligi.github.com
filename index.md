@@ -13,7 +13,7 @@ permalink: /
     </a>
   </li>
   <li>
-    <a href="https://stackoverflow.com/users/322642/ligi">
+    <a href="https://stackoverflow.com/users/322642/ligi?tab=profile">
       <img src="assets/img/stackoverflow.png" alt="stackoverflow"/>
       <h3>StackOverflow</h3>
     </a>
