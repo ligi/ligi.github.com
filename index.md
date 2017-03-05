@@ -35,9 +35,9 @@ permalink: /
   </li>
 
   <li>
-    <a href="https://plus.google.com/+misterligi">
-      <img src="assets/img/plus.png" alt="plus"/>
-      <h3>Google-Plus</h3>
+    <a href="/support">
+      <img src="assets/img/support.png" alt="plus"/>
+      <h3>Support</h3>
     </a>
   </li>
 
@@ -45,6 +45,30 @@ permalink: /
     <a href="mailto:ligi@ligi.de">
       <img src="assets/img/mail.png" alt="plus"/>
       <h3>Mail</h3>
+    </a>
+  </li>
+
+</ul>
+
+<ul class="triptych situations clearfix">
+  <li>
+    <a href="/media">
+      <img src="assets/img/media.png" alt="media"/>
+      <h3>Media</h3>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://plus.google.com/+misterligi">
+      <img src="assets/img/plus.png" alt="plus"/>
+      <h3>Google-Plus</h3>
+    </a>
+  </li>
+
+  <li>
+    <a href="/sound">
+      <img src="assets/img/sound.png" alt="plus"/>
+      <h3>Sound</h3>
     </a>
   </li>
 
