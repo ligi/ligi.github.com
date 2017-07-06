@@ -6,6 +6,7 @@ permalink: /media
 
 ## Talk about WALLETH at Berlin Ethereum meetup June:
 
+You can find the [slides and more information here](http://walleth.org/2017/06/16/walleth-talk).<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSpTyVWrXMg" frameborder="0" allowfullscreen></iframe>
 
 ## Talk about espass at Berlin Ethereum meetup January:
