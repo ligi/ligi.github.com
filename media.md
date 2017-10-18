@@ -4,6 +4,16 @@ title: media
 permalink: /media
 ---
 
+## Talk at DroidCon Berlin 2017
+
+[Here](https://droidcon.de/en/sessions/look-code-tools-and-libs-indie-developer) you can find the session description. <br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/haimBcf7WL8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<br/>
+
+Also shortly in the [DroidCon 2017 Recap](https://www.youtube.com/watch?v=Tp3uV3sOkfQ)<br/><br/>
+
 ## Talk about WALLETH at Berlin Ethereum meetup June:
 
 You can find the [slides and more information here](http://walleth.org/2017/06/16/walleth-talk).<br/>
