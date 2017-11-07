@@ -3,6 +3,13 @@ layout: default
 title: media
 permalink: /media
 ---
+## WALLETH at DevCon3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sXzxkODH-c?start=1182" frameborder="0" allowfullscreen></iframe>
+
+PS: the WALLETH session in the Breakout room was also recoded - just not streamed. Will link the video here also once it is available.
+
+You can find the [Slides for both talks here](https://github.com/walleth/talks).
 
 ## Talk at DroidCon Berlin 2017
 
