@@ -3,7 +3,8 @@ layout: default
 title: support
 permalink: /support
 ---
-<a href="bitcoin:1A5Q5NZbcdppAvpQZhoKzCCEXVJhkiuUGQ">bitcoin:1A5Q5NZbcdppAvpQZhoKzCCEXVJhkiuUGQ</a>
+<div style="padding:16px">
+<a href="ethereum:0xbE27686a93c54Af2f55f16e8dE9E6Dc5dccE915e">ethereum:0xbE27686a93c54Af2f55f16e8dE9E6Dc5dccE915e</a>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -13,3 +14,4 @@ permalink: /support
 </form>
 
 <a href="https://www.patreon.com/bePatron?u=5213698" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
+</div>
