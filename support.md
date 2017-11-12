@@ -4,7 +4,7 @@ title: support
 permalink: /support
 ---
 <div style="padding:16px">
-<a href="ethereum:0xbE27686a93c54Af2f55f16e8dE9E6Dc5dccE915e">ethereum:0xbE27686a93c54Af2f55f16e8dE9E6Dc5dccE915e</a>
+<a href="ethereum:0x381e247beF0ebc21b6611786C665dD5514dcC31F">ethereum:0x381e247beF0ebc21b6611786C665dD5514dcC31F</a>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
