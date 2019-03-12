@@ -59,15 +59,15 @@ permalink: /
   </li>
 
   <li>
-    <a href="https://plus.google.com/+misterligi">
-      <img src="assets/img/plus.png" alt="plus"/>
-      <h3>Google-Plus</h3>
+    <a href="https://peepeth.com/ligi">
+      <img src="assets/img/peepeth.png" alt="peepeth"/>
+      <h3>Peepeth</h3>
     </a>
   </li>
 
   <li>
     <a href="/sound">
-      <img src="assets/img/sound.png" alt="plus"/>
+      <img src="assets/img/sound.png" alt="sound"/>
       <h3>Sound</h3>
     </a>
   </li>
