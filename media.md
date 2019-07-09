@@ -3,6 +3,18 @@ layout: default
 title: media
 permalink: /media
 ---
+## Whats new in WallETH at Berlin Ethereum Meetup
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMe7tIfAC_I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Kotlin - a great fit for the Ethereum ecosystem at KotlinConf
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7v_rxMRmHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Ethereum on Android - Opportunities & Obstacles at DevCon4
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QKVxl5sWXqo?list=PLaM7G4Llrb7wuiHXzK6g-1VOGeMneAYc2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Lightning at 34c3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TLcByvUGMvk?start=3811" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
