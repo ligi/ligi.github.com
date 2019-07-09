@@ -1,21 +1,9 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-require 'json'
-require 'open-uri'
-versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+source "https://rubygems.org"
 
-gem 'github-pages', versions['github-pages']
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-group :development do
-  gem 'colored'
-  gem 'terminal-table'
-  gem 'fuzzy_match'
-end
-
-group :test do
-  gem 'html-proofer', '~> 2.6'
-  gem 'rake'
-  gem 'rspec'
-  gem 'nokogiri'
-  gem 'rubocop'
-end
+gem "jekyll-seo-tag"
+gem 'jekyll-sitemap'
+gem 'jekyll-redirect-from'
