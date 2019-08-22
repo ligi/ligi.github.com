@@ -4,5 +4,7 @@ title: bike
 permalink: /bike
 ---
 
-If you want to use this bike just <a href="mailto:ligi@ligi.de">drop me a mail</a>.
+At CCCamp19 the bike is available to use via <a href="https://dev.bike">dev.bike</a><br/>
+<br/>
+Outside CCCamp19 if you want to use this bike just <a href="mailto:ligi@ligi.de">drop me a mail</a>.
 
