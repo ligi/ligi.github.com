@@ -5,6 +5,8 @@ relative_permalinks: false
 markdown: kramdown
 url: "https://ligi.de"
 
+include: [".well-known"]
+
 exclude:
   - app.coffee
   - CNAME

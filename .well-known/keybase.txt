@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ligi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ligi.de
+  * I am ligi (https://keybase.io/ligi) on keybase.
+  * I have a public key ASCsIJI5L3WksTinKyumipV9aRdk0YlIl2jr8DXp4Xq3XQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ac2092392f75a4b138a72b2ba68a957d691764d189489768ebf035e9e17ab75d0a",
+      "host": "keybase.io",
+      "kid": "0120ac2092392f75a4b138a72b2ba68a957d691764d189489768ebf035e9e17ab75d0a",
+      "uid": "8a9a5389edfe7c5cccf48c3fb5d98919",
+      "username": "ligi"
+    },
+    "merkle_root": {
+      "ctime": 1578519727,
+      "hash": "b228e6e75594bd75dc70c1fff79a3fe3ce0e64b6b5a2e7e53e60234e7bbf150a73598a2220f15d651de81059d2d8bedd9b06b72a07da99ae732227fbb3ee9cd2",
+      "hash_meta": "5eb14207c40700874672e1900fa636745da94edb6c0bc414173994010fdac9a0",
+      "seqno": 14144865
+    },
+    "service": {
+      "entropy": "oVS6Ycw/bFU6F0cBYhQvxEPY",
+      "hostname": "ligi.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578519738,
+  "expire_in": 504576000,
+  "prev": "15db91275e623db928761cf068e2ea00d9ea62f77e43026764f7625b1b391d3a",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrCCSOS91pLE4pysrpoqVfWkXZNGJSJdo6/A16eF6t10Kp3BheWxvYWTESpcCBsQgFduRJ15iPbkodhzwaOLqANnqYvd+QwJnZPdiWxs5HTrEIG/GFMUm0lJL9friRRFn/IHQak9Ncc7Wb+kKiKcXjFauAgHCo3NpZ8RAoPwTkloeAxe6TL2F0/OXe5Nu6/KxQRVz6REhx8jDLzw7uTQuWTNko7K6OPZ721wfdQFsHCJABiipGpNQywg3DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDOtaOn6hG704+rsDCi/0IDTr3cRWJS5aGra83B1X93go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ligi
+
+==================================================================
