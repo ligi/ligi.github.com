@@ -28,7 +28,7 @@ permalink: /
 </ul>
 <ul class="triptych situations clearfix">
   <li>
-    <a href="http://twitter.com/mr_ligi">
+    <a href="https://twitter.com/mr_ligi">
       <img src="assets/img/twitter.png" alt="twitter"/>
       <h3>Twitter</h3>
     </a>
