@@ -4,7 +4,7 @@ title: sound
 permalink: /sound
 ---
 
-Find the Music I like on [BandCamp](https://bandcamp.com/ligi_) and [SoundCloud](https://soundcloud.com/mr-ligi)
+Find the Music I like on [BandCamp](https://bandcamp.com/ligi_) and [SoundCloud](https://soundcloud.com/mr-ligi/likes)
 
 ## 2020
 
