@@ -4,7 +4,7 @@ title: bike
 permalink: /bike
 ---
 
-If you want to use this bike (max payload 100kg) just <a href="mailto:ligi@ligi.de">drop me a mail</a>.<br/>
+If you want to use this bike (max payload 100kg) just <a href="mailto:ligi+bike@ligi.de">drop me a mail</a>.<br/>
 Here some impressions (please lmk about yours):
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last <a href="https://twitter.com/cbase?ref_src=twsrc%5Etfw">@cbase</a> shuttle left <a href="https://twitter.com/hashtag/CCCamp19?src=hash&amp;ref_src=twsrc%5Etfw">#CCCamp19</a> and returned to Berlin.<br>And as this space-station is ready to be used again there will be a after-camp-lounge tonight to celebrate the successful EVA and return to default. Hope to also see some of the <a href="https://twitter.com/hashtag/cccamp2019?src=hash&amp;ref_src=twsrc%5Etfw">#cccamp2019</a> visitors from abroad there! <a href="https://t.co/QdPr8iVGge">pic.twitter.com/QdPr8iVGge</a></p>&mdash; ligi (@mr_ligi) <a href="https://twitter.com/mr_ligi/status/1166328753783496704?ref_src=twsrc%5Etfw">August 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
