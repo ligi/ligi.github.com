@@ -5,6 +5,7 @@ permalink: /bike
 ---
 
 If you want to use this bike (max payload 100kg) just <a href="mailto:ligi+bike@ligi.de">drop me a mail</a>.<br/>
+You can also follow this bike <a href="https://twitter.com/cargoshuttle">on twitter</a><br/>
 Here some impressions (please lmk about yours):
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I want to build a better bass-box (no more roll - but a scoop or bassreflex) for my <a href="https://twitter.com/cargoshuttle?ref_src=twsrc%5Etfw">@cargoshuttle</a> Unfortunately I did not yet find a plan to fit the needed dimensions.<br>If anyone has Ideas - please leave them here: <a href="https://t.co/n96vjfGF4L">https://t.co/n96vjfGF4L</a><br>Or DM me <a href="https://t.co/CTdRhiBZVe">pic.twitter.com/CTdRhiBZVe</a></p>&mdash; ligi 🖖☮️🌍🚲🌳🍵🎶🌶🔥 (@mr_ligi) <a href="https://twitter.com/mr_ligi/status/1284519978927038469?ref_src=twsrc%5Etfw">July 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
