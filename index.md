@@ -35,9 +35,9 @@ permalink: /
   </li>
 
   <li>
-    <a href="/support">
-      <img src="assets/img/support.png" alt="plus"/>
-      <h3>Support</h3>
+    <a href="/bike">
+      <img src="assets/img/bike.png" alt="bike"/>
+      <h3>Bicycle</h3>
     </a>
   </li>
 
