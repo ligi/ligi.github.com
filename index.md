@@ -61,7 +61,7 @@ permalink: /
   <li>
     <a rel="me" href="https://chaos.social/@ligi">
       <img src="assets/img/mastodon.png" alt="mastodon"/>
-      <h3>>Mastodon</h3>
+      <h3>Mastodon</h3>
     </a>
   </li>
 
