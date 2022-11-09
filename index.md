@@ -59,9 +59,9 @@ permalink: /
   </li>
 
   <li>
-    <a href="https://peepeth.com/ligi">
-      <img src="assets/img/peepeth.png" alt="peepeth"/>
-      <h3>Peepeth</h3>
+    <a rel="me" href="https://chaos.social/@ligi">
+      <img src="assets/img/mastodon.png" alt="mastodon"/>
+      <h3>>Mastodon</h3>
     </a>
   </li>
 
